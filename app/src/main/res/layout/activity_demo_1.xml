@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_demo_1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.xiaoqlu.motionevent.DemoActivity_1">
+
+    <com.xiaoqlu.motionevent.ScrollerLayout
+        android:id="@+id/scrollerLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!--<ListView-->
+            <!--android:id="@+id/lv1"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:text="This is first child view"-->
+            <!--android:background="@color/green"/>-->
+
+        <!--<ListView-->
+            <!--android:id="@+id/lv2"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:text="This is second child view"-->
+            <!--android:background="@color/blue"/>-->
+
+        <!--<ListView-->
+            <!--android:id="@+id/lv3"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:text="This is third child view"-->
+            <!--android:background="@color/red"/>-->
+        <com.xiaoqlu.motionevent.MyListView
+            android:id="@+id/lv1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="This is first child view"
+            android:background="@color/green"/>
+
+        <com.xiaoqlu.motionevent.MyListView
+            android:id="@+id/lv2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="This is second child view"
+            android:background="@color/blue"/>
+
+        <com.xiaoqlu.motionevent.MyListView
+            android:id="@+id/lv3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="This is third child view"
+            android:background="@color/red"/>
+    </com.xiaoqlu.motionevent.ScrollerLayout>
+</RelativeLayout>

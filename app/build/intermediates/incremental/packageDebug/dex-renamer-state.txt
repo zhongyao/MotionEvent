@@ -1,0 +1,7 @@
+#Wed Nov 16 16:11:25 CST 2016
+base.0=E\:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_82fba6639b3c662092d456d63d9bcbeb898df1ab
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ea4b90c623e40619190bf9007d38ec86720faece\\classes.dex
+base.1=E\:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ea4b90c623e40619190bf9007d38ec86720faece
+file.0=E\:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_82fba6639b3c662092d456d63d9bcbeb898df1ab\\classes.dex

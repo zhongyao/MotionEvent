@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="515364638176011"
+    token="-8034171438304389284"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="445" />
+    <task
+        name="instant-run-dex"
+        duration="93" />
+    <task
+        name="instant-run-transform"
+        duration="83" />
+    <task
+        name="verifier"
+        duration="4" />
+
+    <artifact
+        location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="502526781734321"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="514187500662440"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a27e88f8a8fb7e88580211561ef45d39d565d095\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3af833e7c877152e109def4bb13d65cb7960efe6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_373b8de7e4e76ab3dd163f6337558b640dbb75fa\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_82fba6639b3c662092d456d63d9bcbeb898df1ab\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_36ea39846d7b05ee2a0dca353cfd7d219431013f\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_6d27afe518fc53a511c0e8cfb50dfb4e11d241f5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fdbf32eb7e96ec9946eb0b4d825bde3c3a6e9121\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_430d724624163e278b3a8b706c632c277195b033\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d7ba2029744d4e956a9c7687c5a091a7d1f7abb7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_32d46f1eba704f7aa69f0210cd733f7a02f1d04c\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_42d53f8b5cd278275a79ca6126f0ba5cbe0fb1de\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4cc7ff09b8f7df2e9710da8440b05a4d44504aee\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b0d21fa42cc689085456218ed976c13946c4398f\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ea4b90c623e40619190bf9007d38ec86720faece\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7798852ccaa18f34d4363f173ad972fc52c7ce48\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_c966602117d2bf9f30b8b996f603e0e8451e2232\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_15c404a5afadb1936fb2ee711135c5b7aab1eff6\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="515011474347789"
+        verifier="METHOD_ADDED" >
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="515059815436440"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\builds\debug\515059815436440\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="515364638176011"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

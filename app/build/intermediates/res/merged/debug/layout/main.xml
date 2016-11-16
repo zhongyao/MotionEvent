@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaoqlu.motionevent.LayoutView1 xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/view1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="滑动冲突示例" />
+
+    <com.xiaoqlu.motionevent.LayoutView2
+        android:id="@+id/view2"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.xiaoqlu.motionevent.MyTextView
+            android:id="@+id/tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:text="AB"
+            android:textColor="#0000FF"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+    </com.xiaoqlu.motionevent.LayoutView2>
+
+</com.xiaoqlu.motionevent.LayoutView1>
