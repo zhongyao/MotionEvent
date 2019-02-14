@@ -2,175 +2,58 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_15c404a5afadb1936fb2ee711135c5b7aab1eff6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_7798852ccaa18f34d4363f173ad972fc52c7ce48\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_6d27afe518fc53a511c0e8cfb50dfb4e11d241f5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a27e88f8a8fb7e88580211561ef45d39d565d095\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_c966602117d2bf9f30b8b996f603e0e8451e2232\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d7ba2029744d4e956a9c7687c5a091a7d1f7abb7\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_373b8de7e4e76ab3dd163f6337558b640dbb75fa\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_430d724624163e278b3a8b706c632c277195b033\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="7ad31560e37ac33facffeeaca0ef45e04234f25b">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ea4b90c623e40619190bf9007d38ec86720faece\classes.dex" />
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_6340c2c0ec08937a940d19bc6538a8bc8a3032f8.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="31e136d14017a52141e90adadb76bf5069b6d2d9">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ea4b90c623e40619190bf9007d38ec86720faece\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fdbf32eb7e96ec9946eb0b4d825bde3c3a6e9121\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3af833e7c877152e109def4bb13d65cb7960efe6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\heyi\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_42d53f8b5cd278275a79ca6126f0ba5cbe0fb1de\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4cc7ff09b8f7df2e9710da8440b05a4d44504aee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
         optimize="true"
         revision="23.0.2"
-        sha1="ce9a1569c59c8fae50ec25933f20675ab55d9de3">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_82fba6639b3c662092d456d63d9bcbeb898df1ab\classes.dex" />
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_30b437323f808ba71373c3ef5f68e8e612bd43ea.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_36ea39846d7b05ee2a0dca353cfd7d219431013f\classes.dex" />
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_2631949d4bcf2c95807efecb5a4ab9ab6336b025.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/Users/youku/Desktop/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_32d46f1eba704f7aa69f0210cd733f7a02f1d04c\classes.dex" />
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_62886505cca9eaafe68cad33353a9324a00c8994.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="35fbc82878d766314e3c5658b8327488129fd348">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_82fba6639b3c662092d456d63d9bcbeb898df1ab\classes.dex" />
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_2db688b4c69a095b1246916681165021b889d86d.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\workspace\AndroidDemo\MotionEventTest-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b0d21fa42cc689085456218ed976c13946c4398f\classes.dex" />
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_af58a6db89b47dbb2fc49cd5bcfc20429384fdaf.jar" />
     </item>
 
 </items>

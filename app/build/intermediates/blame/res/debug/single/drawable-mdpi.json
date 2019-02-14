@@ -1,6 +1,10 @@
 [
     {
-        "merged": "E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
-        "source": "E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]
