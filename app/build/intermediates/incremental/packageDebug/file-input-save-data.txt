@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Feb 14 16:06:55 CST 2019
+#Thu Feb 14 16:49:43 CST 2019
 210.set=ANDROID_RESOURCE
 282.file=/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/res/resources-debug.ap_/res/drawable/abc_tab_indicator_material.xml
 14.set=ANDROID_RESOURCE
