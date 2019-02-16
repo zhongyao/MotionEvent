@@ -24,18 +24,11 @@ import com.xiaoqlu.motionevent.util.Logger;
  * 当Activity收到Touch事件时，将遍历子View进行Down事件的分发，ViewGroup的遍历可以看成是递归的。分发的目的是为了能够真正找到要消费该事件的View。
  * 当已经找到消费该事件的ViewGroup之后，该ViewGroup的子View将不会再收到Down事件的触发，即递归遍历只走一遍，找到能消费此事件的ViewGroup(or View)为止。
  *
- * @author zhongyao
- */
-
-/**
- * 某个view自身的优先级调用：
- *
- * onTouchListener > onTouchEvent > onClickListener
  *
  * 参考：
  * https://www.jianshu.com/p/38015afcdb58
  *
- * @author hongri
+ * @author zhongyao
  */
 public class MotionEventActivity extends Activity {
 

@@ -39,6 +39,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/youku/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.3_4ea96bc371582d7c193b28aeca0c58f717ed2f97.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -54,6 +63,15 @@
         revision="23.0.2"
         sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
         <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_af58a6db89b47dbb2fc49cd5bcfc20429384fdaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.1.3_2de02c93987b7698a40a6b5840d233a74917f318.jar" />
     </item>
 
 </items>

@@ -18,14 +18,14 @@
         <activity
             android:name="com.xiaoqlu.motionevent.MotionEventActivity"
             android:label="@string/app_name" >
+        </activity>
+        <activity android:name="com.xiaoqlu.motionevent.SlidingConflictActivity" />
+        <activity android:name="com.xiaoqlu.motionevent.TouchActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity android:name="com.xiaoqlu.motionevent.SlidingConflictActivity" />
-        <activity android:name="com.xiaoqlu.motionevent.TouchActivity" >
         </activity>
     </application>
 

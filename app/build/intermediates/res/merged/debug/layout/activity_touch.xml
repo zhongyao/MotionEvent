@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.constraint.ConstraintLayout
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.xiaoqlu.motionevent.TouchActivity">
 
-</android.support.constraint.ConstraintLayout>
+    <com.xiaoqlu.motionevent.widget.TouchButton
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:background="@color/green"
+        android:gravity="center"
+        android:text="Button"
+        android:textColor="@color/blue"/>
+
+</LinearLayout>
