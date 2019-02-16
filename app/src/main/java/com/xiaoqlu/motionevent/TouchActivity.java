@@ -1,0 +1,13 @@
+package com.xiaoqlu.motionevent;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class TouchActivity extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_touch);
+    }
+}

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
-        "source": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
-    },
-    {
         "merged": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
         "source": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_ic_star_black_16dp.png",

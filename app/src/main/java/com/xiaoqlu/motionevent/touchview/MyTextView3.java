@@ -5,13 +5,12 @@ import android.support.v7.widget.AppCompatTextView;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.MotionEvent;
-import android.view.View;
 import com.xiaoqlu.motionevent.util.Logger;
 
 /**
  * @author hongri
  */
-public class MyTextView3 extends AppCompatTextView implements View.OnClickListener {
+public class MyTextView3 extends AppCompatTextView{
     private final String TAG = "MyTextView--3---------";
 
     public MyTextView3(Context context, AttributeSet attrs) {
@@ -54,16 +53,6 @@ public class MyTextView3 extends AppCompatTextView implements View.OnClickListen
             default:
                 break;
         }
-        return false;
-    }
-
-    @Override
-    public void onClick(View v) {
-        Log.d(TAG, "onClick");
-    }
-
-    public boolean onLongClick(View v) {
-        Log.d(TAG, "onLongClick");
         return false;
     }
 }

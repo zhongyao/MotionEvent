@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
-        "source": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
         "source": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",

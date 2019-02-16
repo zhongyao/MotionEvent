@@ -25,6 +25,8 @@
             </intent-filter>
         </activity>
         <activity android:name="com.xiaoqlu.motionevent.SlidingConflictActivity" />
+        <activity android:name="com.xiaoqlu.motionevent.TouchActivity" >
+        </activity>
     </application>
 
 </manifest>
