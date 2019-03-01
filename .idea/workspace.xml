@@ -16,127 +16,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fafc49e8-b1f5-4355-9dc4-5675ec5d57c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_constraint_constraint_layout_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/TouchButton.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/MotionEventActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et-rEE/values-et-rEE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu-rIN/values-gu-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-v13/values-h320dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is-rIS/values-is-rIS.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km-rKH/values-km-rKH.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa-rIN/values-pa-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq-rAL/values-sq-rAL.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-v13/values-w480dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/eye.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/MultiTouchActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/DragView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/MultiTextView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/MultiTouchView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_multi_touch.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/fileContent/fileContent.lock" afterPath="$PROJECT_DIR$/.gradle/3.5/fileContent/fileContent.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/3.5/javaCompile/javaCompile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/MotionEventActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/MotionEventActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$attr.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$bool.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$color.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$dimen.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$dimen.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$integer.class" />
@@ -145,39 +36,32 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/SlidingConflictActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/SlidingConflictActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/touchview/MyTextView3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/touchview/MyTextView3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/TouchActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/TouchActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/widget/TouchButton.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/xiaoqlu/motionevent/widget/TouchButton.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/EtKzkgX4BpaBiYUbdvcVU8jeXGE=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/EtKzkgX4BpaBiYUbdvcVU8jeXGE=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_f02d4c5cb31500f62525583375a4dd947398cf65.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_f02d4c5cb31500f62525583375a4dd947398cf65.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/fileContent/annotation-processors.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/fileContent/annotation-processors.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/javaCompile/jarAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/javaCompile/taskJars.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/jvmClassSignatures.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/jvmClassSignatures.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.5/taskHistory/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/xiaoqlu/motionevent/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/xiaoqlu/motionevent/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_touch.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_touch.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/MotionEventActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/MotionEventActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/TouchActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/TouchActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_touch.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_touch.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="MotionEvent.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -243,58 +127,131 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TouchButton.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/TouchButton.java">
+      <file leaf-file-name="activity_multi_touch.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_multi_touch.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+            <state relative-caret-position="207">
+              <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiTouchActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/MultiTouchActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiTextView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/MultiTextView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="70" column="45" lean-forward="false" selection-start-line="70" selection-start-column="45" selection-end-line="70" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#452#453#0" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#627#628#0" expanded="true" />
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MotionEventActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/MotionEventActivity.java">
+      <file leaf-file-name="DragView.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/DragView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="31" column="3" lean-forward="false" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="View.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/view/View.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="5192" column="19" lean-forward="false" selection-start-line="5192" selection-start-column="19" selection-end-line="5192" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TextView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/widget/TextView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-409">
-              <caret line="8274" column="19" lean-forward="false" selection-start-line="8274" selection-start-column="19" selection-end-line="8274" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TouchActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/TouchActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+            <state relative-caret-position="443">
+              <caret line="56" column="42" lean-forward="true" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
               <folding>
-                <element signature="e#1152#1357#0" expanded="true" />
-                <element signature="e#1356#1357#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Canvas.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/graphics/Canvas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="1498" column="16" lean-forward="false" selection-start-line="1498" selection-start-column="16" selection-end-line="1498" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Matrix.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/graphics/Matrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="742" column="19" lean-forward="false" selection-start-line="742" selection-start-column="19" selection-end-line="742" selection-end-column="19" />
+              <folding>
+                <element signature="e#5724#5725#0" expanded="true" />
+                <element signature="e#5774#5775#0" expanded="true" />
+                <element signature="e#24195#24196#0" expanded="true" />
+                <element signature="e#24237#24238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MultiTouchView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/MultiTouchView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#647#648#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MotionEventCompat.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Desktop/sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/android/support/v4/view/MotionEventCompat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="439" column="67" lean-forward="false" selection-start-line="439" selection-start-column="67" selection-end-line="439" selection-end-column="67" />
+              <folding>
+                <element signature="e#12059#12060#0" expanded="true" />
+                <element signature="e#12113#12114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Build.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/os/Build.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="300" column="32" lean-forward="false" selection-start-line="300" selection-start-column="32" selection-end-line="300" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MotionEvent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/view/MotionEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="2010" column="33" lean-forward="false" selection-start-line="2010" selection-start-column="21" selection-end-line="2010" selection-end-column="33" />
+              <folding>
+                <element signature="e#72606#72607#0" expanded="true" />
+                <element signature="e#72656#72657#0" expanded="true" />
+                <element signature="e#79843#79844#0" expanded="true" />
+                <element signature="e#79899#79900#0" expanded="true" />
+                <element signature="e#80421#80422#0" expanded="true" />
+                <element signature="e#80488#80489#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -331,6 +288,11 @@
       <find>onTouch</find>
       <find>view</find>
       <find>performClick</find>
+      <find>getPointerId</find>
+      <find>action</find>
+      <find>mPointerIndex</find>
+      <find>bitmap</find>
+      <find>getActionIndex</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -2061,10 +2023,15 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/touchview/LayoutView2.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/touchview/MyTextView3.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/MotionEventActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_touch.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/TouchActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/TouchButton.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/MultiTouchView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/MultiTouchActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/MultiTextView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_multi_touch.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/DragView.java" />
       </list>
     </option>
   </component>
@@ -2091,17 +2058,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MotionEvent" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2147,6 +2103,62 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MotionEvent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MotionEvent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MotionEvent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MotionEvent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-xhdpi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2298,6 +2310,17 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MotionEvent" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -2305,6 +2328,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="WGY0217421000199" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="2.2.3" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
@@ -2313,6 +2337,9 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xiaoqlu.motionevent.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2398,7 +2425,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1550315812904" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1551420671803" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2446,7 +2473,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1550315812904" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1551420671803" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2672,7 +2699,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1550315812905" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1551420671804" />
       </method>
     </configuration>
     <list size="1">
@@ -2714,19 +2741,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5028653" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="公告栏" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.516129" sideWeight="0.49713466" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39081886" sideWeight="0.49713466" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2735,7 +2762,7 @@
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287841" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2878412" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -2809,85 +2836,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/touchview/MyTextView3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="49" lean-forward="false" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/touchview/LayoutView2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="83" column="39" lean-forward="false" selection-start-line="83" selection-start-column="39" selection-end-line="83" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/SlidingConflictActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/touchview/LayoutView1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/MotionEventActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/MyListView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -2904,7 +2853,7 @@
         <state relative-caret-position="595">
           <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2931,6 +2880,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2955,8 +2905,8 @@
         <state relative-caret-position="68">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="false" />
+            <element signature="e#448#449#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2985,7 +2935,7 @@
         <state relative-caret-position="595">
           <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3059,6 +3009,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3066,119 +3017,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/view/MotionEvent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3366">
-          <caret line="216" column="41" lean-forward="false" selection-start-line="216" selection-start-column="28" selection-end-line="216" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#143847#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#70759#70760#0" expanded="false" />
-            <element signature="e#70794#70795#0" expanded="false" />
-            <element signature="e#71906#71907#0" expanded="false" />
-            <element signature="e#71958#71959#0" expanded="false" />
-            <element signature="e#72033#72034#0" expanded="false" />
-            <element signature="e#72083#72084#0" expanded="false" />
-            <element signature="e#72169#72170#0" expanded="false" />
-            <element signature="e#72220#72221#0" expanded="false" />
-            <element signature="e#72606#72607#0" expanded="false" />
-            <element signature="e#72656#72657#0" expanded="false" />
-            <element signature="e#72975#72976#0" expanded="false" />
-            <element signature="e#73039#73040#0" expanded="false" />
-            <element signature="e#74146#74147#0" expanded="false" />
-            <element signature="e#74199#74200#0" expanded="false" />
-            <element signature="e#74330#74331#0" expanded="false" />
-            <element signature="e#74379#74380#0" expanded="false" />
-            <element signature="e#75412#75413#0" expanded="false" />
-            <element signature="e#75481#75482#0" expanded="false" />
-            <element signature="e#75681#75682#0" expanded="false" />
-            <element signature="e#75753#75754#0" expanded="false" />
-            <element signature="e#76067#76068#0" expanded="false" />
-            <element signature="e#76154#76155#0" expanded="false" />
-            <element signature="e#76674#76675#0" expanded="false" />
-            <element signature="e#76749#76750#0" expanded="false" />
-            <element signature="e#76928#76929#0" expanded="false" />
-            <element signature="e#77009#77010#0" expanded="false" />
-            <element signature="e#77188#77189#0" expanded="false" />
-            <element signature="e#77269#77270#0" expanded="false" />
-            <element signature="e#77469#77470#0" expanded="false" />
-            <element signature="e#77557#77558#0" expanded="false" />
-            <element signature="e#77745#77746#0" expanded="false" />
-            <element signature="e#77829#77830#0" expanded="false" />
-            <element signature="e#78040#78041#0" expanded="false" />
-            <element signature="e#78131#78132#0" expanded="false" />
-            <element signature="e#78338#78339#0" expanded="false" />
-            <element signature="e#78429#78430#0" expanded="false" />
-            <element signature="e#78637#78638#0" expanded="false" />
-            <element signature="e#78727#78728#0" expanded="false" />
-            <element signature="e#78931#78932#0" expanded="false" />
-            <element signature="e#79021#79022#0" expanded="false" />
-            <element signature="e#79230#79231#0" expanded="false" />
-            <element signature="e#79321#79322#0" expanded="false" />
-            <element signature="e#79622#79623#0" expanded="false" />
-            <element signature="e#79701#79702#0" expanded="false" />
-            <element signature="e#79843#79844#0" expanded="false" />
-            <element signature="e#79899#79900#0" expanded="false" />
-            <element signature="e#80421#80422#0" expanded="false" />
-            <element signature="e#80488#80489#0" expanded="false" />
-            <element signature="e#81074#81075#0" expanded="false" />
-            <element signature="e#81140#81141#0" expanded="false" />
-            <element signature="e#81539#81540#0" expanded="false" />
-            <element signature="e#81607#81608#0" expanded="false" />
-            <element signature="e#90670#90671#0" expanded="false" />
-            <element signature="e#90723#90724#0" expanded="false" />
-            <element signature="e#91127#91128#0" expanded="false" />
-            <element signature="e#91182#91183#0" expanded="false" />
-            <element signature="e#91368#91369#0" expanded="false" />
-            <element signature="e#91429#91430#0" expanded="false" />
-            <element signature="e#91742#91743#0" expanded="false" />
-            <element signature="e#91798#91799#0" expanded="false" />
-            <element signature="e#91963#91964#0" expanded="false" />
-            <element signature="e#92020#92021#0" expanded="false" />
-            <element signature="e#92359#92360#0" expanded="false" />
-            <element signature="e#92443#92444#0" expanded="false" />
-            <element signature="e#92782#92783#0" expanded="false" />
-            <element signature="e#92866#92867#0" expanded="false" />
-            <element signature="e#93204#93205#0" expanded="false" />
-            <element signature="e#93258#93259#0" expanded="false" />
-            <element signature="e#93596#93597#0" expanded="false" />
-            <element signature="e#93650#93651#0" expanded="false" />
-            <element signature="e#94033#94034#0" expanded="false" />
-            <element signature="e#94088#94089#0" expanded="false" />
-            <element signature="e#94760#94761#0" expanded="false" />
-            <element signature="e#94835#94836#0" expanded="false" />
-            <element signature="e#95755#95756#0" expanded="false" />
-            <element signature="e#95818#95819#0" expanded="false" />
-            <element signature="e#96185#96186#0" expanded="false" />
-            <element signature="e#96254#96255#0" expanded="false" />
-            <element signature="e#96621#96622#0" expanded="false" />
-            <element signature="e#96690#96691#0" expanded="false" />
-            <element signature="e#97085#97086#0" expanded="false" />
-            <element signature="e#97161#97162#0" expanded="false" />
-            <element signature="e#97540#97541#0" expanded="false" />
-            <element signature="e#97612#97613#0" expanded="false" />
-            <element signature="e#109512#109513#0" expanded="false" />
-            <element signature="e#109565#109566#0" expanded="false" />
-            <element signature="e#109763#109764#0" expanded="false" />
-            <element signature="e#109816#109817#0" expanded="false" />
-            <element signature="e#109912#109913#0" expanded="false" />
-            <element signature="e#109963#109964#0" expanded="false" />
-            <element signature="e#129471#129472#0" expanded="false" />
-            <element signature="e#129523#129524#0" expanded="false" />
-            <element signature="e#129802#129803#0" expanded="false" />
-            <element signature="e#129842#129843#0" expanded="false" />
-            <element signature="e#131001#131002#0" expanded="false" />
-            <element signature="e#131040#131041#0" expanded="false" />
-            <element signature="e#141874#141875#0" expanded="false" />
-            <element signature="e#141905#141906#0" expanded="false" />
-            <element signature="e#142136#142137#0" expanded="false" />
-            <element signature="e#142175#142176#0" expanded="false" />
-            <element signature="e#143786#143787#0" expanded="false" />
-            <element signature="e#143837#143838#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3193,17 +3032,6 @@
             <element signature="e#4612#4613#0" expanded="false" />
             <element signature="e#5295#5296#0" expanded="false" />
             <element signature="e#5330#5331#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/util/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3236,12 +3064,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="2402" column="31" lean-forward="false" selection-start-line="2402" selection-start-column="31" selection-end-line="2402" selection-end-column="31" />
-          <folding>
-            <element signature="e#64228#64229#0" expanded="false" />
-            <element signature="e#64288#64289#0" expanded="false" />
-            <element signature="e#90201#90202#0" expanded="false" />
-            <element signature="e#90263#90264#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3258,7 +3080,7 @@
         <state relative-caret-position="637">
           <caret line="56" column="5" lean-forward="false" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3276,8 +3098,8 @@
         <state relative-caret-position="425">
           <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
           <folding>
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="false" />
+            <element signature="e#448#449#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3298,22 +3120,9 @@
         <state relative-caret-position="122">
           <caret line="2367" column="32" lean-forward="false" selection-start-line="2367" selection-start-column="32" selection-end-line="2367" selection-end-column="32" />
           <folding>
-            <marker date="1550314042129" expanded="true" signature="541755:545432" ph="{...}" />
+            <marker date="1551343667283" expanded="true" signature="541868:545545" ph="{...}" />
           </folding>
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="e#698#716#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_touch.xml">
@@ -3329,47 +3138,728 @@
     </entry>
     <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/widget/TextView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-409">
+        <state relative-caret-position="134963">
           <caret line="8274" column="19" lean-forward="false" selection-start-line="8274" selection-start-column="19" selection-end-line="8274" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/MotionEventActivity.java">
+    <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/view/View.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="31" column="3" lean-forward="false" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        <state relative-caret-position="86071">
+          <caret line="5192" column="19" lean-forward="false" selection-start-line="5192" selection-start-column="19" selection-end-line="5192" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#876728#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#143577#143578#0" expanded="false" />
+            <element signature="e#143616#143617#0" expanded="false" />
+            <element signature="e#191303#191304#0" expanded="false" />
+            <element signature="e#191352#191353#0" expanded="false" />
+            <element signature="e#195757#195758#0" expanded="false" />
+            <element signature="e#195818#195819#0" expanded="false" />
+            <element signature="e#196028#196029#0" expanded="false" />
+            <element signature="e#196088#196089#0" expanded="false" />
+            <element signature="e#204598#204599#0" expanded="false" />
+            <element signature="e#204662#204663#0" expanded="false" />
+            <element signature="e#205082#205083#0" expanded="false" />
+            <element signature="e#205122#205123#0" expanded="false" />
+            <element signature="e#209143#209144#0" expanded="false" />
+            <element signature="e#209195#209196#0" expanded="false" />
+            <element signature="e#209408#209409#0" expanded="false" />
+            <element signature="e#209462#209463#0" expanded="false" />
+            <element signature="e#209984#209985#0" expanded="false" />
+            <element signature="e#210038#210039#0" expanded="false" />
+            <element signature="e#210483#210484#0" expanded="false" />
+            <element signature="e#210536#210537#0" expanded="false" />
+            <element signature="e#213158#213159#0" expanded="false" />
+            <element signature="e#213223#213224#0" expanded="false" />
+            <element signature="e#217741#217742#0" expanded="false" />
+            <element signature="e#217800#217801#0" expanded="false" />
+            <element signature="e#237017#237018#0" expanded="false" />
+            <element signature="e#237066#237067#0" expanded="false" />
+            <element signature="e#239340#239341#0" expanded="false" />
+            <element signature="e#239383#239384#0" expanded="false" />
+            <element signature="e#251631#251632#0" expanded="false" />
+            <element signature="e#251675#251676#0" expanded="false" />
+            <element signature="e#254486#254487#0" expanded="false" />
+            <element signature="e#254531#254532#0" expanded="false" />
+            <element signature="e#257642#257643#0" expanded="false" />
+            <element signature="e#257684#257685#0" expanded="false" />
+            <element signature="e#260816#260817#0" expanded="false" />
+            <element signature="e#260870#260871#0" expanded="false" />
+            <element signature="e#262624#262625#0" expanded="false" />
+            <element signature="e#262677#262678#0" expanded="false" />
+            <element signature="e#262930#262931#0" expanded="false" />
+            <element signature="e#262964#262965#0" expanded="false" />
+            <element signature="e#264196#264197#0" expanded="false" />
+            <element signature="e#264231#264232#0" expanded="false" />
+            <element signature="e#264745#264746#0" expanded="false" />
+            <element signature="e#264804#264805#0" expanded="false" />
+            <element signature="e#265055#265056#0" expanded="false" />
+            <element signature="e#265128#265129#0" expanded="false" />
+            <element signature="e#265457#265458#0" expanded="false" />
+            <element signature="e#265531#265532#0" expanded="false" />
+            <element signature="e#267071#267072#0" expanded="false" />
+            <element signature="e#267133#267134#0" expanded="false" />
+            <element signature="e#268115#268116#0" expanded="false" />
+            <element signature="e#268172#268173#0" expanded="false" />
+            <element signature="e#268531#268532#0" expanded="false" />
+            <element signature="e#268606#268607#0" expanded="false" />
+            <element signature="e#268904#268905#0" expanded="false" />
+            <element signature="e#268943#268944#0" expanded="false" />
+            <element signature="e#269283#269284#0" expanded="false" />
+            <element signature="e#269333#269334#0" expanded="false" />
+            <element signature="e#269634#269635#0" expanded="false" />
+            <element signature="e#269674#269675#0" expanded="false" />
+            <element signature="e#270019#270020#0" expanded="false" />
+            <element signature="e#270071#270072#0" expanded="false" />
+            <element signature="e#270363#270364#0" expanded="false" />
+            <element signature="e#270400#270401#0" expanded="false" />
+            <element signature="e#270730#270731#0" expanded="false" />
+            <element signature="e#270776#270777#0" expanded="false" />
+            <element signature="e#271074#271075#0" expanded="false" />
+            <element signature="e#271113#271114#0" expanded="false" />
+            <element signature="e#271453#271454#0" expanded="false" />
+            <element signature="e#271503#271504#0" expanded="false" />
+            <element signature="e#271810#271811#0" expanded="false" />
+            <element signature="e#271852#271853#0" expanded="false" />
+            <element signature="e#272207#272208#0" expanded="false" />
+            <element signature="e#272263#272264#0" expanded="false" />
+            <element signature="e#287503#287504#0" expanded="false" />
+            <element signature="e#287583#287584#0" expanded="false" />
+            <element signature="e#287642#287643#0" expanded="false" />
+            <element signature="e#287687#287688#0" expanded="false" />
+            <element signature="e#288151#288152#0" expanded="false" />
+            <element signature="e#288192#288193#0" expanded="false" />
+            <element signature="e#289300#289301#0" expanded="false" />
+            <element signature="e#289351#289352#0" expanded="false" />
+            <element signature="e#289644#289645#0" expanded="false" />
+            <element signature="e#289697#289698#0" expanded="false" />
+            <element signature="e#289964#289965#0" expanded="false" />
+            <element signature="e#290025#290026#0" expanded="false" />
+            <element signature="e#293381#293382#0" expanded="false" />
+            <element signature="e#293465#293466#0" expanded="false" />
+            <element signature="e#298524#298525#0" expanded="false" />
+            <element signature="e#298593#298594#0" expanded="false" />
+            <element signature="e#301350#301351#0" expanded="false" />
+            <element signature="e#301392#301393#0" expanded="false" />
+            <element signature="e#301576#301577#0" expanded="false" />
+            <element signature="e#301658#301659#0" expanded="false" />
+            <element signature="e#302137#302138#0" expanded="false" />
+            <element signature="e#302205#302206#0" expanded="false" />
+            <element signature="e#302446#302447#0" expanded="false" />
+            <element signature="e#302510#302511#0" expanded="false" />
+            <element signature="e#303343#303344#0" expanded="false" />
+            <element signature="e#303429#303430#0" expanded="false" />
+            <element signature="e#303742#303743#0" expanded="false" />
+            <element signature="e#303802#303803#0" expanded="false" />
+            <element signature="e#304267#304268#0" expanded="false" />
+            <element signature="e#304329#304330#0" expanded="false" />
+            <element signature="e#304632#304633#0" expanded="false" />
+            <element signature="e#304702#304703#0" expanded="false" />
+            <element signature="e#305586#305587#0" expanded="false" />
+            <element signature="e#305662#305663#0" expanded="false" />
+            <element signature="e#308158#308159#0" expanded="false" />
+            <element signature="e#308229#308230#0" expanded="false" />
+            <element signature="e#308727#308728#0" expanded="false" />
+            <element signature="e#308795#308796#0" expanded="false" />
+            <element signature="e#310038#310039#0" expanded="false" />
+            <element signature="e#310111#310112#0" expanded="false" />
+            <element signature="e#310864#310865#0" expanded="false" />
+            <element signature="e#310937#310938#0" expanded="false" />
+            <element signature="e#311422#311423#0" expanded="false" />
+            <element signature="e#311493#311494#0" expanded="false" />
+            <element signature="e#313659#313660#0" expanded="false" />
+            <element signature="e#313724#313725#0" expanded="false" />
+            <element signature="e#315546#315547#0" expanded="false" />
+            <element signature="e#315574#315575#0" expanded="false" />
+            <element signature="e#317230#317231#0" expanded="false" />
+            <element signature="e#317312#317313#0" expanded="false" />
+            <element signature="e#322700#322701#0" expanded="false" />
+            <element signature="e#322775#322776#0" expanded="false" />
+            <element signature="e#327471#327472#0" expanded="false" />
+            <element signature="e#327523#327524#0" expanded="false" />
+            <element signature="e#328476#328477#0" expanded="false" />
+            <element signature="e#328528#328529#0" expanded="false" />
+            <element signature="e#342456#342457#0" expanded="false" />
+            <element signature="e#342532#342533#0" expanded="false" />
+            <element signature="e#346309#346310#0" expanded="false" />
+            <element signature="e#346386#346387#0" expanded="false" />
+            <element signature="e#356420#356421#0" expanded="false" />
+            <element signature="e#356466#356467#0" expanded="false" />
+            <element signature="e#356672#356673#0" expanded="false" />
+            <element signature="e#356700#356701#0" expanded="false" />
+            <element signature="e#356780#356781#0" expanded="false" />
+            <element signature="e#356831#356832#0" expanded="false" />
+            <element signature="e#356909#356910#0" expanded="false" />
+            <element signature="e#356964#356965#0" expanded="false" />
+            <element signature="e#359948#359949#0" expanded="false" />
+            <element signature="e#359988#359989#0" expanded="false" />
+            <element signature="e#360533#360534#0" expanded="false" />
+            <element signature="e#360574#360575#0" expanded="false" />
+            <element signature="e#361815#361816#0" expanded="false" />
+            <element signature="e#361876#361877#0" expanded="false" />
+            <element signature="e#363465#363466#0" expanded="false" />
+            <element signature="e#363528#363529#0" expanded="false" />
+            <element signature="e#371521#371522#0" expanded="false" />
+            <element signature="e#371549#371550#0" expanded="false" />
+            <element signature="e#371984#371985#0" expanded="false" />
+            <element signature="e#372012#372013#0" expanded="false" />
+            <element signature="e#372441#372442#0" expanded="false" />
+            <element signature="e#372469#372470#0" expanded="false" />
+            <element signature="e#373627#373628#0" expanded="false" />
+            <element signature="e#373673#373674#0" expanded="false" />
+            <element signature="e#375083#375084#0" expanded="false" />
+            <element signature="e#375156#375157#0" expanded="false" />
+            <element signature="e#377217#377218#0" expanded="false" />
+            <element signature="e#377252#377253#0" expanded="false" />
+            <element signature="e#378111#378112#0" expanded="false" />
+            <element signature="e#378164#378165#0" expanded="false" />
+            <element signature="e#379110#379111#0" expanded="false" />
+            <element signature="e#379191#379192#0" expanded="false" />
+            <element signature="e#381479#381480#0" expanded="false" />
+            <element signature="e#381528#381529#0" expanded="false" />
+            <element signature="e#384089#384090#0" expanded="false" />
+            <element signature="e#384120#384121#0" expanded="false" />
+            <element signature="e#384824#384825#0" expanded="false" />
+            <element signature="e#384852#384853#0" expanded="false" />
+            <element signature="e#386704#386705#0" expanded="false" />
+            <element signature="e#386732#386733#0" expanded="false" />
+            <element signature="e#388780#388781#0" expanded="false" />
+            <element signature="e#388808#388809#0" expanded="false" />
+            <element signature="e#389443#389444#0" expanded="false" />
+            <element signature="e#389471#389472#0" expanded="false" />
+            <element signature="e#390441#390442#0" expanded="false" />
+            <element signature="e#390469#390470#0" expanded="false" />
+            <element signature="e#391595#391596#0" expanded="false" />
+            <element signature="e#391622#391623#0" expanded="false" />
+            <element signature="e#392194#392195#0" expanded="false" />
+            <element signature="e#392222#392223#0" expanded="false" />
+            <element signature="e#393944#393945#0" expanded="false" />
+            <element signature="e#393971#393972#0" expanded="false" />
+            <element signature="e#394903#394904#0" expanded="false" />
+            <element signature="e#394931#394932#0" expanded="false" />
+            <element signature="e#396731#396732#0" expanded="false" />
+            <element signature="e#396759#396760#0" expanded="false" />
+            <element signature="e#401587#401588#0" expanded="false" />
+            <element signature="e#401646#401647#0" expanded="false" />
+            <element signature="e#412306#412307#0" expanded="false" />
+            <element signature="e#412347#412348#0" expanded="false" />
+            <element signature="e#412455#412456#0" expanded="false" />
+            <element signature="e#412492#412493#0" expanded="false" />
+            <element signature="e#425905#425906#0" expanded="false" />
+            <element signature="e#425935#425936#0" expanded="false" />
+            <element signature="e#426217#426218#0" expanded="false" />
+            <element signature="e#426258#426259#0" expanded="false" />
+            <element signature="e#426538#426539#0" expanded="false" />
+            <element signature="e#426579#426580#0" expanded="false" />
+            <element signature="e#426959#426960#0" expanded="false" />
+            <element signature="e#426990#426991#0" expanded="false" />
+            <element signature="e#427356#427357#0" expanded="false" />
+            <element signature="e#427387#427388#0" expanded="false" />
+            <element signature="e#427590#427591#0" expanded="false" />
+            <element signature="e#427627#427628#0" expanded="false" />
+            <element signature="e#427829#427830#0" expanded="false" />
+            <element signature="e#427866#427867#0" expanded="false" />
+            <element signature="e#428811#428812#0" expanded="false" />
+            <element signature="e#428869#428870#0" expanded="false" />
+            <element signature="e#429644#429645#0" expanded="false" />
+            <element signature="e#429681#429682#0" expanded="false" />
+            <element signature="e#429969#429970#0" expanded="false" />
+            <element signature="e#430028#430029#0" expanded="false" />
+            <element signature="e#430806#430807#0" expanded="false" />
+            <element signature="e#430844#430845#0" expanded="false" />
+            <element signature="e#432256#432257#0" expanded="false" />
+            <element signature="e#432310#432311#0" expanded="false" />
+            <element signature="e#436204#436205#0" expanded="false" />
+            <element signature="e#436252#436253#0" expanded="false" />
+            <element signature="e#437452#437453#0" expanded="false" />
+            <element signature="e#437501#437502#0" expanded="false" />
+            <element signature="e#438928#438929#0" expanded="false" />
+            <element signature="e#438977#438978#0" expanded="false" />
+            <element signature="e#440480#440481#0" expanded="false" />
+            <element signature="e#440526#440527#0" expanded="false" />
+            <element signature="e#441654#441655#0" expanded="false" />
+            <element signature="e#441700#441701#0" expanded="false" />
+            <element signature="e#442872#442873#0" expanded="false" />
+            <element signature="e#442918#442919#0" expanded="false" />
+            <element signature="e#444311#444312#0" expanded="false" />
+            <element signature="e#444357#444358#0" expanded="false" />
+            <element signature="e#445619#445620#0" expanded="false" />
+            <element signature="e#445702#445703#0" expanded="false" />
+            <element signature="e#446996#446997#0" expanded="false" />
+            <element signature="e#447023#447024#0" expanded="false" />
+            <element signature="e#452980#452981#0" expanded="false" />
+            <element signature="e#453073#453074#0" expanded="false" />
+            <element signature="e#453270#453271#0" expanded="false" />
+            <element signature="e#453297#453298#0" expanded="false" />
+            <element signature="e#455451#455452#0" expanded="false" />
+            <element signature="e#455481#455482#0" expanded="false" />
+            <element signature="e#455651#455652#0" expanded="false" />
+            <element signature="e#455713#455714#0" expanded="false" />
+            <element signature="e#457810#457811#0" expanded="false" />
+            <element signature="e#457838#457839#0" expanded="false" />
+            <element signature="e#460014#460015#0" expanded="false" />
+            <element signature="e#460043#460044#0" expanded="false" />
+            <element signature="e#462283#462284#0" expanded="false" />
+            <element signature="e#462331#462332#0" expanded="false" />
+            <element signature="e#462712#462713#0" expanded="false" />
+            <element signature="e#462754#462755#0" expanded="false" />
+            <element signature="e#463117#463118#0" expanded="false" />
+            <element signature="e#463164#463165#0" expanded="false" />
+            <element signature="e#463543#463544#0" expanded="false" />
+            <element signature="e#463584#463585#0" expanded="false" />
+            <element signature="e#463959#463960#0" expanded="false" />
+            <element signature="e#464016#464017#0" expanded="false" />
+            <element signature="e#464407#464408#0" expanded="false" />
+            <element signature="e#464458#464459#0" expanded="false" />
+            <element signature="e#464707#464708#0" expanded="false" />
+            <element signature="e#464756#464757#0" expanded="false" />
+            <element signature="e#465604#465605#0" expanded="false" />
+            <element signature="e#465656#465657#0" expanded="false" />
+            <element signature="e#466870#466871#0" expanded="false" />
+            <element signature="e#466922#466923#0" expanded="false" />
+            <element signature="e#467997#467998#0" expanded="false" />
+            <element signature="e#468049#468050#0" expanded="false" />
+            <element signature="e#469096#469097#0" expanded="false" />
+            <element signature="e#469137#469138#0" expanded="false" />
+            <element signature="e#470341#470342#0" expanded="false" />
+            <element signature="e#470394#470395#0" expanded="false" />
+            <element signature="e#473499#473500#0" expanded="false" />
+            <element signature="e#473538#473539#0" expanded="false" />
+            <element signature="e#475212#475213#0" expanded="false" />
+            <element signature="e#475258#475259#0" expanded="false" />
+            <element signature="e#477594#477595#0" expanded="false" />
+            <element signature="e#477627#477628#0" expanded="false" />
+            <element signature="e#478931#478932#0" expanded="false" />
+            <element signature="e#478983#478984#0" expanded="false" />
+            <element signature="e#484012#484013#0" expanded="false" />
+            <element signature="e#484048#484049#0" expanded="false" />
+            <element signature="e#486215#486216#0" expanded="false" />
+            <element signature="e#486267#486268#0" expanded="false" />
+            <element signature="e#489773#489774#0" expanded="false" />
+            <element signature="e#489830#489831#0" expanded="false" />
+            <element signature="e#495577#495578#0" expanded="false" />
+            <element signature="e#495609#495610#0" expanded="false" />
+            <element signature="e#498845#498846#0" expanded="false" />
+            <element signature="e#498887#498888#0" expanded="false" />
+            <element signature="e#506428#506429#0" expanded="false" />
+            <element signature="e#506509#506510#0" expanded="false" />
+            <element signature="e#511749#511750#0" expanded="false" />
+            <element signature="e#511789#511790#0" expanded="false" />
+            <element signature="e#519774#519775#0" expanded="false" />
+            <element signature="e#519856#519857#0" expanded="false" />
+            <element signature="e#521113#521114#0" expanded="false" />
+            <element signature="e#521183#521184#0" expanded="false" />
+            <element signature="e#522320#522321#0" expanded="false" />
+            <element signature="e#522392#522393#0" expanded="false" />
+            <element signature="e#524454#524455#0" expanded="false" />
+            <element signature="e#524534#524535#0" expanded="false" />
+            <element signature="e#526207#526208#0" expanded="false" />
+            <element signature="e#526281#526282#0" expanded="false" />
+            <element signature="e#528414#528415#0" expanded="false" />
+            <element signature="e#528476#528477#0" expanded="false" />
+            <element signature="e#530623#530624#0" expanded="false" />
+            <element signature="e#530680#530681#0" expanded="false" />
+            <element signature="e#531367#531368#0" expanded="false" />
+            <element signature="e#531400#531401#0" expanded="false" />
+            <element signature="e#532169#532170#0" expanded="false" />
+            <element signature="e#532200#532201#0" expanded="false" />
+            <element signature="e#532967#532968#0" expanded="false" />
+            <element signature="e#533000#533001#0" expanded="false" />
+            <element signature="e#533648#533649#0" expanded="false" />
+            <element signature="e#533682#533683#0" expanded="false" />
+            <element signature="e#534435#534436#0" expanded="false" />
+            <element signature="e#534466#534467#0" expanded="false" />
+            <element signature="e#535216#535217#0" expanded="false" />
+            <element signature="e#535250#535251#0" expanded="false" />
+            <element signature="e#544707#544708#0" expanded="false" />
+            <element signature="e#544735#544736#0" expanded="false" />
+            <element signature="e#549370#549371#0" expanded="false" />
+            <element signature="e#549419#549420#0" expanded="false" />
+            <element signature="e#550052#550053#0" expanded="false" />
+            <element signature="e#550120#550121#0" expanded="false" />
+            <element signature="e#554852#554853#0" expanded="false" />
+            <element signature="e#554928#554929#0" expanded="false" />
+            <element signature="e#555277#555278#0" expanded="false" />
+            <element signature="e#555369#555370#0" expanded="false" />
+            <element signature="e#558285#558286#0" expanded="false" />
+            <element signature="e#558331#558332#0" expanded="false" />
+            <element signature="e#558522#558523#0" expanded="false" />
+            <element signature="e#558580#558581#0" expanded="false" />
+            <element signature="e#560210#560211#0" expanded="false" />
+            <element signature="e#560251#560252#0" expanded="false" />
+            <element signature="e#560520#560521#0" expanded="false" />
+            <element signature="e#560596#560597#0" expanded="false" />
+            <element signature="e#562298#562299#0" expanded="false" />
+            <element signature="e#562370#562371#0" expanded="false" />
+            <element signature="e#562627#562628#0" expanded="false" />
+            <element signature="e#562699#562700#0" expanded="false" />
+            <element signature="e#568273#568274#0" expanded="false" />
+            <element signature="e#568323#568324#0" expanded="false" />
+            <element signature="e#570091#570092#0" expanded="false" />
+            <element signature="e#570143#570144#0" expanded="false" />
+            <element signature="e#573406#573407#0" expanded="false" />
+            <element signature="e#573461#573462#0" expanded="false" />
+            <element signature="e#576277#576278#0" expanded="false" />
+            <element signature="e#576350#576351#0" expanded="false" />
+            <element signature="e#583315#583316#0" expanded="false" />
+            <element signature="e#583348#583349#0" expanded="false" />
+            <element signature="e#584955#584956#0" expanded="false" />
+            <element signature="e#584982#584983#0" expanded="false" />
+            <element signature="e#587827#587828#0" expanded="false" />
+            <element signature="e#587911#587912#0" expanded="false" />
+            <element signature="e#589672#589673#0" expanded="false" />
+            <element signature="e#589758#589759#0" expanded="false" />
+            <element signature="e#593322#593323#0" expanded="false" />
+            <element signature="e#593367#593368#0" expanded="false" />
+            <element signature="e#596876#596877#0" expanded="false" />
+            <element signature="e#596927#596928#0" expanded="false" />
+            <element signature="e#597127#597128#0" expanded="false" />
+            <element signature="e#597167#597168#0" expanded="false" />
+            <element signature="e#608244#608245#0" expanded="false" />
+            <element signature="e#608272#608273#0" expanded="false" />
+            <element signature="e#608989#608990#0" expanded="false" />
+            <element signature="e#609017#609018#0" expanded="false" />
+            <element signature="e#609339#609340#0" expanded="false" />
+            <element signature="e#609363#609364#0" expanded="false" />
+            <element signature="e#609688#609689#0" expanded="false" />
+            <element signature="e#609712#609713#0" expanded="false" />
+            <element signature="e#610031#610032#0" expanded="false" />
+            <element signature="e#610055#610056#0" expanded="false" />
+            <element signature="e#610383#610384#0" expanded="false" />
+            <element signature="e#610407#610408#0" expanded="false" />
+            <element signature="e#611764#611765#0" expanded="false" />
+            <element signature="e#611842#611843#0" expanded="false" />
+            <element signature="e#613021#613022#0" expanded="false" />
+            <element signature="e#613096#613097#0" expanded="false" />
+            <element signature="e#643024#643025#0" expanded="false" />
+            <element signature="e#643048#643049#0" expanded="false" />
+            <element signature="e#645885#645886#0" expanded="false" />
+            <element signature="e#645966#645967#0" expanded="false" />
+            <element signature="e#652443#652444#0" expanded="false" />
+            <element signature="e#652493#652494#0" expanded="false" />
+            <element signature="e#653352#653353#0" expanded="false" />
+            <element signature="e#653385#653386#0" expanded="false" />
+            <element signature="e#657613#657614#0" expanded="false" />
+            <element signature="e#657707#657708#0" expanded="false" />
+            <element signature="e#658156#658157#0" expanded="false" />
+            <element signature="e#658204#658205#0" expanded="false" />
+            <element signature="e#658249#658250#0" expanded="false" />
+            <element signature="e#658308#658309#0" expanded="false" />
+            <element signature="e#673688#673689#0" expanded="false" />
+            <element signature="e#673722#673723#0" expanded="false" />
+            <element signature="e#674956#674957#0" expanded="false" />
+            <element signature="e#675037#675038#0" expanded="false" />
+            <element signature="e#677496#677497#0" expanded="false" />
+            <element signature="e#677577#677578#0" expanded="false" />
+            <element signature="e#691345#691346#0" expanded="false" />
+            <element signature="e#691379#691380#0" expanded="false" />
+            <element signature="e#691665#691666#0" expanded="false" />
+            <element signature="e#691702#691703#0" expanded="false" />
+            <element signature="e#694036#694037#0" expanded="false" />
+            <element signature="e#694127#694128#0" expanded="false" />
+            <element signature="e#695538#695539#0" expanded="false" />
+            <element signature="e#695576#695577#0" expanded="false" />
+            <element signature="e#697100#697101#0" expanded="false" />
+            <element signature="e#697160#697161#0" expanded="false" />
+            <element signature="e#698733#698734#0" expanded="false" />
+            <element signature="e#698794#698795#0" expanded="false" />
+            <element signature="e#711616#711617#0" expanded="false" />
+            <element signature="e#711683#711684#0" expanded="false" />
+            <element signature="e#712040#712041#0" expanded="false" />
+            <element signature="e#712066#712067#0" expanded="false" />
+            <element signature="e#712341#712342#0" expanded="false" />
+            <element signature="e#712368#712369#0" expanded="false" />
+            <element signature="e#712812#712813#0" expanded="false" />
+            <element signature="e#712838#712839#0" expanded="false" />
+            <element signature="e#715331#715332#0" expanded="false" />
+            <element signature="e#715355#715356#0" expanded="false" />
+            <element signature="e#718460#718461#0" expanded="false" />
+            <element signature="e#718485#718486#0" expanded="false" />
+            <element signature="e#729146#729147#0" expanded="false" />
+            <element signature="e#729188#729189#0" expanded="false" />
+            <element signature="e#733513#733514#0" expanded="false" />
+            <element signature="e#733546#733547#0" expanded="false" />
+            <element signature="e#734321#734322#0" expanded="false" />
+            <element signature="e#734353#734354#0" expanded="false" />
+            <element signature="e#735086#735087#0" expanded="false" />
+            <element signature="e#735126#735127#0" expanded="false" />
+            <element signature="e#737363#737364#0" expanded="false" />
+            <element signature="e#737419#737420#0" expanded="false" />
+            <element signature="e#737772#737773#0" expanded="false" />
+            <element signature="e#737829#737830#0" expanded="false" />
+            <element signature="e#738506#738507#0" expanded="false" />
+            <element signature="e#738534#738535#0" expanded="false" />
+            <element signature="e#742084#742085#0" expanded="false" />
+            <element signature="e#742149#742150#0" expanded="false" />
+            <element signature="e#746609#746610#0" expanded="false" />
+            <element signature="e#746651#746652#0" expanded="false" />
+            <element signature="e#746948#746949#0" expanded="false" />
+            <element signature="e#747028#747029#0" expanded="false" />
+            <element signature="e#747761#747762#0" expanded="false" />
+            <element signature="e#747819#747820#0" expanded="false" />
+            <element signature="e#751636#751637#0" expanded="false" />
+            <element signature="e#751697#751698#0" expanded="false" />
+            <element signature="e#752216#752217#0" expanded="false" />
+            <element signature="e#752277#752278#0" expanded="false" />
+            <element signature="e#752810#752811#0" expanded="false" />
+            <element signature="e#752852#752853#0" expanded="false" />
+            <element signature="e#761555#761556#0" expanded="false" />
+            <element signature="e#761583#761584#0" expanded="false" />
+            <element signature="e#762752#762753#0" expanded="false" />
+            <element signature="e#762821#762822#0" expanded="false" />
+            <element signature="e#770629#770630#0" expanded="false" />
+            <element signature="e#770667#770668#0" expanded="false" />
+            <element signature="e#777186#777187#0" expanded="false" />
+            <element signature="e#777239#777240#0" expanded="false" />
+            <element signature="e#797393#797394#0" expanded="false" />
+            <element signature="e#797465#797466#0" expanded="false" />
+            <element signature="e#807408#807409#0" expanded="false" />
+            <element signature="e#807480#807481#0" expanded="false" />
+            <element signature="e#809838#809839#0" expanded="false" />
+            <element signature="e#809884#809885#0" expanded="false" />
+            <element signature="e#809943#809944#0" expanded="false" />
+            <element signature="e#809991#809992#0" expanded="false" />
+            <element signature="e#810373#810374#0" expanded="false" />
+            <element signature="e#810426#810427#0" expanded="false" />
+            <element signature="e#810493#810494#0" expanded="false" />
+            <element signature="e#810548#810549#0" expanded="false" />
+            <element signature="e#810930#810931#0" expanded="false" />
+            <element signature="e#810983#810984#0" expanded="false" />
+            <element signature="e#811042#811043#0" expanded="false" />
+            <element signature="e#811097#811098#0" expanded="false" />
+            <element signature="e#811479#811480#0" expanded="false" />
+            <element signature="e#811532#811533#0" expanded="false" />
+            <element signature="e#811591#811592#0" expanded="false" />
+            <element signature="e#811646#811647#0" expanded="false" />
+            <element signature="e#811972#811973#0" expanded="false" />
+            <element signature="e#812014#812015#0" expanded="false" />
+            <element signature="e#812073#812074#0" expanded="false" />
+            <element signature="e#812117#812118#0" expanded="false" />
+            <element signature="e#812443#812444#0" expanded="false" />
+            <element signature="e#812485#812486#0" expanded="false" />
+            <element signature="e#812544#812545#0" expanded="false" />
+            <element signature="e#812588#812589#0" expanded="false" />
+            <element signature="e#812914#812915#0" expanded="false" />
+            <element signature="e#812956#812957#0" expanded="false" />
+            <element signature="e#813015#813016#0" expanded="false" />
+            <element signature="e#813059#813060#0" expanded="false" />
+            <element signature="e#813420#813421#0" expanded="false" />
+            <element signature="e#813469#813470#0" expanded="false" />
+            <element signature="e#813528#813529#0" expanded="false" />
+            <element signature="e#813579#813580#0" expanded="false" />
+            <element signature="e#813946#813947#0" expanded="false" />
+            <element signature="e#813996#813997#0" expanded="false" />
+            <element signature="e#814055#814056#0" expanded="false" />
+            <element signature="e#814107#814108#0" expanded="false" />
+            <element signature="e#814474#814475#0" expanded="false" />
+            <element signature="e#814524#814525#0" expanded="false" />
+            <element signature="e#814583#814584#0" expanded="false" />
+            <element signature="e#814635#814636#0" expanded="false" />
+            <element signature="e#814987#814988#0" expanded="false" />
+            <element signature="e#815034#815035#0" expanded="false" />
+            <element signature="e#815093#815094#0" expanded="false" />
+            <element signature="e#815142#815143#0" expanded="false" />
+            <element signature="e#815494#815495#0" expanded="false" />
+            <element signature="e#815541#815542#0" expanded="false" />
+            <element signature="e#815600#815601#0" expanded="false" />
+            <element signature="e#815649#815650#0" expanded="false" />
+            <element signature="e#819769#819770#0" expanded="false" />
+            <element signature="e#819825#819826#0" expanded="false" />
+            <element signature="e#820149#820150#0" expanded="false" />
+            <element signature="e#820206#820207#0" expanded="false" />
+            <element signature="e#822218#822219#0" expanded="false" />
+            <element signature="e#822289#822290#0" expanded="false" />
+            <element signature="e#822721#822722#0" expanded="false" />
+            <element signature="e#822759#822760#0" expanded="false" />
+            <element signature="e#822842#822843#0" expanded="false" />
+            <element signature="e#822900#822901#0" expanded="false" />
+            <element signature="e#823626#823627#0" expanded="false" />
+            <element signature="e#823674#823675#0" expanded="false" />
+            <element signature="e#824109#824110#0" expanded="false" />
+            <element signature="e#824147#824148#0" expanded="false" />
+            <element signature="e#834390#834391#0" expanded="false" />
+            <element signature="e#834431#834432#0" expanded="false" />
+            <element signature="e#835256#835257#0" expanded="false" />
+            <element signature="e#835297#835298#0" expanded="false" />
+            <element signature="e#835687#835688#0" expanded="false" />
+            <element signature="e#835748#835749#0" expanded="false" />
+            <element signature="e#835806#835807#0" expanded="false" />
+            <element signature="e#835869#835870#0" expanded="false" />
+            <element signature="e#856803#856804#0" expanded="false" />
+            <element signature="e#856873#856874#0" expanded="false" />
+            <element signature="e#864160#864161#0" expanded="false" />
+            <element signature="e#864195#864196#0" expanded="false" />
+            <element signature="e#865572#865573#0" expanded="false" />
+            <element signature="e#865620#865621#0" expanded="false" />
+            <element signature="e#865790#865791#0" expanded="false" />
+            <element signature="e#865853#865854#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/TouchButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/TouchActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        <state relative-caret-position="331">
+          <caret line="41" column="28" lean-forward="false" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
           <folding>
             <element signature="e#1152#1357#0" expanded="true" />
             <element signature="e#1356#1357#0" expanded="true" />
+            <element signature="e#1396#1548#0" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
+            <element signature="e#1591#1788#0" expanded="true" />
+            <element signature="e#1787#1788#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/view/View.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/util/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5192" column="19" lean-forward="false" selection-start-line="5192" selection-start-column="19" selection-end-line="5192" selection-end-column="19" />
+        <state relative-caret-position="221">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <element signature="e#219#220#0" expanded="false" />
+            <element signature="e#250#251#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="28" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="e#698#716#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/MotionEventActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="3" lean-forward="false" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/TouchButton.java">
+    <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/view/MotionEvent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="40" column="35" lean-forward="true" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        <state relative-caret-position="243">
+          <caret line="2010" column="33" lean-forward="false" selection-start-line="2010" selection-start-column="21" selection-end-line="2010" selection-end-column="33" />
+          <folding>
+            <element signature="e#72606#72607#0" expanded="true" />
+            <element signature="e#72656#72657#0" expanded="true" />
+            <element signature="e#79843#79844#0" expanded="true" />
+            <element signature="e#79899#79900#0" expanded="true" />
+            <element signature="e#80421#80422#0" expanded="true" />
+            <element signature="e#80488#80489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/MultiTouchActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_multi_touch.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/graphics/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="1498" column="16" lean-forward="false" selection-start-line="1498" selection-start-column="16" selection-end-line="1498" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/graphics/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="742" column="19" lean-forward="false" selection-start-line="742" selection-start-column="19" selection-end-line="742" selection-end-column="19" />
+          <folding>
+            <element signature="e#5724#5725#0" expanded="true" />
+            <element signature="e#5774#5775#0" expanded="true" />
+            <element signature="e#24195#24196#0" expanded="true" />
+            <element signature="e#24237#24238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/MultiTextView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="70" column="45" lean-forward="false" selection-start-line="70" selection-start-column="45" selection-end-line="70" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#627#628#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/sdk/sources/android-23/android/os/Build.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="300" column="32" lean-forward="false" selection-start-line="300" selection-start-column="32" selection-end-line="300" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/sdk/extras/android/m2repository/com/android/support/support-v4/23.4.0/support-v4-23.4.0-sources.jar!/android/support/v4/view/MotionEventCompat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="439" column="67" lean-forward="false" selection-start-line="439" selection-start-column="67" selection-end-line="439" selection-end-column="67" />
+          <folding>
+            <element signature="e#12059#12060#0" expanded="true" />
+            <element signature="e#12113#12114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/MultiTouchView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#647#648#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/xiaoqlu/motionevent/widget/DragView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="56" column="42" lean-forward="true" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

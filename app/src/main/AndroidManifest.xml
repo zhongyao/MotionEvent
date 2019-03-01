@@ -16,10 +16,12 @@
         <activity
             android:name=".MotionEventActivity"
             android:label="@string/app_name">
-
         </activity>
         <activity android:name=".SlidingConflictActivity"/>
         <activity android:name=".TouchActivity">
+
+        </activity>
+        <activity android:name=".MultiTouchActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 

@@ -324,6 +324,10 @@
         "source": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/res/layout/activity_demo_1.xml"
     },
     {
+        "merged": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/res/merged/debug/layout/activity_multi_touch.xml",
+        "source": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/res/layout/activity_multi_touch.xml"
+    },
+    {
         "merged": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "/workspace/git_resources_20170410/AndroidDemo/MotionEvent/E:\\workspace\\AndroidDemo\\MotionEventTest-master1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\layout\\notification_template_part_time.xml"
     }
