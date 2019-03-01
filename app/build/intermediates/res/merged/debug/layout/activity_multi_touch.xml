@@ -25,7 +25,7 @@ tools:context="com.xiaoqlu.motionevent.MultiTouchActivity">
 
 </com.xiaoqlu.motionevent.widget.MultiTextView>-->
 
-<com.xiaoqlu.motionevent.widget.DragView
+<!--<com.xiaoqlu.motionevent.widget.DragView
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/tv"
@@ -36,4 +36,31 @@ tools:context="com.xiaoqlu.motionevent.MultiTouchActivity">
     android:gravity="center"
     tools:context="com.xiaoqlu.motionevent.MultiTouchActivity">
 
-</com.xiaoqlu.motionevent.widget.DragView>
+</com.xiaoqlu.motionevent.widget.DragView>-->
+
+<!--
+<com.xiaoqlu.motionevent.widget.ScaleView
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/tv"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:layout_gravity="center"
+android:background="@color/green"
+android:gravity="center"
+tools:context="com.xiaoqlu.motionevent.MultiTouchActivity">
+
+</com.xiaoqlu.motionevent.widget.ScaleView>-->
+
+<com.xiaoqlu.motionevent.widget.ScaleGestureView
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/tv"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:layout_gravity="center"
+android:background="@color/green"
+android:gravity="center"
+tools:context="com.xiaoqlu.motionevent.MultiTouchActivity">
+
+</com.xiaoqlu.motionevent.widget.ScaleGestureView>
