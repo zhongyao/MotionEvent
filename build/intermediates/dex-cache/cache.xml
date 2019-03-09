@@ -12,15 +12,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
-        <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_30b437323f808ba71373c3ef5f68e8e612bd43ea.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -48,15 +39,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
-        <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_2db688b4c69a095b1246916681165021b889d86d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -72,6 +54,24 @@
         revision="23.0.2"
         sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
         <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.1.3_2de02c93987b7698a40a6b5840d233a74917f318.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_30b437323f808ba71373c3ef5f68e8e612bd43ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_2db688b4c69a095b1246916681165021b889d86d.jar" />
     </item>
 
 </items>

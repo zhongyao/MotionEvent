@@ -2,6 +2,8 @@ package com.xiaoqlu.motionevent;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.view.Window;
+import android.view.WindowManager.LayoutParams;
 
 /**
  * @author hongri
@@ -14,6 +16,8 @@ public class MultiTouchActivity extends Activity /*implements OnTouchListener*/ 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        requestWindowFeature(Window.FEATURE_NO_TITLE);
+        getWindow().setFlags(LayoutParams.FLAG_FULLSCREEN,LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_multi_touch);
 
         //tv = (MultiTouchView)findViewById(R.id.tv);

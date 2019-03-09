@@ -98,23 +98,23 @@ public class ScaleGestureView extends View {
         mGestureDetector = new GestureDetector(context, new GestureDetector.SimpleOnGestureListener() {
             @Override
             public boolean onScroll(MotionEvent e1, MotionEvent e2, float distanceX, float distanceY) {
-                float scale = getMatrixValue(MSCALE_X, mCanvasMatrix);
-                mUserMatrix.preTranslate(-distanceX / scale, -distanceY / scale);
+                //float scale = getMatrixValue(MSCALE_X, mCanvasMatrix);
+                //mUserMatrix.preTranslate(-distanceX / scale, -distanceY / scale);
                 //fixTranslate();   // 在用户滚动时不进行修正，保证用户滚动时也有响应， 在用户抬起手指后进行修正
-                invalidate();
+                //invalidate();
                 return true;
             }
 
             @Override
             public boolean onDoubleTap(MotionEvent e) {
-                if (!mUserMatrix.isIdentity()) {
-                    mUserMatrix.reset();
-                } else {
-                    float[] points = mapPoint(e.getX(), e.getY(), mInvertMatrix);
-                    mUserMatrix.postScale(MAX_SCALE, MAX_SCALE, points[0], points[1]);
-                }
-                fixTranslate();
-                invalidate();
+                //if (!mUserMatrix.isIdentity()) {
+                //    mUserMatrix.reset();
+                //} else {
+                //    float[] points = mapPoint(e.getX(), e.getY(), mInvertMatrix);
+                //    mUserMatrix.postScale(MAX_SCALE, MAX_SCALE, points[0], points[1]);
+                //}
+                //fixTranslate();
+                //invalidate();
                 return true;
             }
         });

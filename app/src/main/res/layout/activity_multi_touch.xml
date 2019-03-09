@@ -38,29 +38,29 @@ tools:context="com.xiaoqlu.motionevent.MultiTouchActivity">
 
 </com.xiaoqlu.motionevent.widget.DragView>-->
 
+<com.xiaoqlu.motionevent.widget.MatrixSetRectToRectView
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/tv"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:layout_gravity="center"
+android:background="@color/green"
+android:gravity="center"
+tools:context="com.xiaoqlu.motionevent.MultiTouchActivity">
+
+</com.xiaoqlu.motionevent.widget.MatrixSetRectToRectView>
+
 <!--
-<com.xiaoqlu.motionevent.widget.ScaleView
+<com.xiaoqlu.motionevent.widget.CanvasSaveRestoreView
 xmlns:android="http://schemas.android.com/apk/res/android"
 xmlns:tools="http://schemas.android.com/tools"
 android:id="@+id/tv"
-android:layout_width="match_parent"
-android:layout_height="match_parent"
+android:layout_width="300dp"
+android:layout_height="300dp"
 android:layout_gravity="center"
-android:background="@color/green"
 android:gravity="center"
+android:background="@color/green"
 tools:context="com.xiaoqlu.motionevent.MultiTouchActivity">
 
-</com.xiaoqlu.motionevent.widget.ScaleView>-->
-
-<com.xiaoqlu.motionevent.widget.ScaleGestureView
-xmlns:android="http://schemas.android.com/apk/res/android"
-xmlns:tools="http://schemas.android.com/tools"
-android:id="@+id/tv"
-android:layout_width="match_parent"
-android:layout_height="match_parent"
-android:layout_gravity="center"
-android:background="@color/green"
-android:gravity="center"
-tools:context="com.xiaoqlu.motionevent.MultiTouchActivity">
-
-</com.xiaoqlu.motionevent.widget.ScaleGestureView>
+</com.xiaoqlu.motionevent.widget.CanvasSaveRestoreView>-->

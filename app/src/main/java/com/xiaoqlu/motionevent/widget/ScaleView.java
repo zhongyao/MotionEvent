@@ -66,7 +66,7 @@ public class ScaleView extends View {
                 //缩放中心Y坐标
                 Logger.d(TAG + "focusY=" + detector.getFocusY());
 
-                mBitmapMatrix.postScale(detector.getScaleFactor(), detector.getScaleFactor(), detector.getFocusX(),
+                mBitmapMatrix.postScale(/*detector.getScaleFactor()*/-0.5f, /*detector.getScaleFactor()*/-0.5f, detector.getFocusX(),
                     detector.getFocusY());
                 invalidate();
 
