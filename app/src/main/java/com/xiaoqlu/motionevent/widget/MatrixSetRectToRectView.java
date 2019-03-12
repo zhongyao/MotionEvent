@@ -54,7 +54,8 @@ public class MatrixSetRectToRectView extends View {
         RectF src = new RectF(0, 0, mBitmap.getWidth(), mBitmap.getHeight());
         RectF dst = new RectF(0, 0, mViewWidth, mViewHeight);
         mMatrix.setRectToRect(src, dst, ScaleToFit.CENTER);
-
+        mMatrix.isIdentity();
+        mMatrix.reset();
         conDrawanvas.drawBitmap(mBitmap, mMatrix, mPaint);
     }
 }

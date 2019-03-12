@@ -39,7 +39,7 @@ public class MatrixSetPolyToPolyView extends View {
             mBitmap.getHeight()};
         float[] dst = new float[] {0, 0, mBitmap.getWidth(), 100, mBitmap.getWidth(), mBitmap.getHeight() - 100, 0,
             mBitmap.getHeight()};
-
+        //多边形变换
         mMatrix.setPolyToPoly(src, 0, dst, 0, 4);
         mMatrix.postTranslate(0, 200);
 
