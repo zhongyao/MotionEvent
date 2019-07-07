@@ -26,6 +26,7 @@ import com.xiaoqlu.motionevent.util.Logger;
  * 当已经确认(如ViewGroupA)已经拦截并消费了该事件，那么以后不会在调用其onInterceptTouchEvent方法(在已经拦截并消费的情况下，就没有必要每次都询问了)，但是dispatchTouchEvent无论如何是每次都需要调用的。
  *
  * 参考：
+ * https://blog.csdn.net/guolin_blog/article/details/9097463【郭霖】
  * https://www.jianshu.com/p/38015afcdb58
  * http://wuxiaolong.me/2015/12/19/MotionEvent/
  *
