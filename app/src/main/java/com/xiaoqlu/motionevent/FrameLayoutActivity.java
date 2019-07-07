@@ -29,7 +29,6 @@ public class FrameLayoutActivity extends Activity {
 
         //方法1
         btnA.setClickable(false);
-        btnA.setFocusable(false);
 
         //方法2
         //btnA.setOnTouchListener(new OnTouchListener() {
