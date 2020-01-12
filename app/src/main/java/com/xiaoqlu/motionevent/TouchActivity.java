@@ -12,15 +12,16 @@ import com.xiaoqlu.motionevent.widget.TouchButton;
 
 /**
  * 某个view自身的优先级调用：
- * onTouch > onTouchEvent > onClick
+ * onTouch > onTouchEvent > onLongClick > onClick
  *
  *  onTouch和onTouchEvent有什么区别：
  *  这两个方法都是在View的dispatchTouchEvent中调用的，onTouch优先于onTouchEvent执行。
  *  如果在onTouch方法中通过返回true将事件消费掉，onTouchEvent将不会再执行
  *
- * 1、onTouch默认返回false，当把onTouchEvent直接返回true，拦截了onClick事件
- * 2、onTouch默认返回false，当把onTouchEvent直接返回false，拦截了onClick事件、ACTION_MOVE,ACTION_UP，事件由Activity本身消费
- * 3、当onTouch返回true，拦截onClick、onTouchEvent事件
+ * 1、当onTouch返回true，拦截onTouchEvent、onLongClick、onClick事件
+ * 2、onTouch默认返回false，当把onTouchEvent直接返回true，会执行onLongClick、onClick事件（如果已经设置其各自监听的话）。
+ * 3、onTouch默认返回false，当把onTouchEvent直接返回false，拦截了onClick、ACTION_MOVE、ACTION_UP事件，事件由Activity本身消费
+ * 4、当onLongClick返回true，那么只会单独执行onLongClick事件，但是不会执行onClick事件。
  *
  * @author hongri
  */
