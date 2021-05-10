@@ -64,6 +64,9 @@ public class ViewB extends AppCompatTextView {
             case MotionEvent.ACTION_UP:
                 Logger.d(TAG + "--onTouchEvent--UP");
                 break;
+            case MotionEvent.ACTION_CANCEL:
+                Logger.d(TAG + "--onTouchEvent--CANCEL");
+                break;
             default:
                 break;
         }

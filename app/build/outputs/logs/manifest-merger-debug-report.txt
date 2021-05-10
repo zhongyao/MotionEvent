@@ -1,86 +1,172 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:2:1-35:12
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/1b64f4f1938f353050d217d3799a32d0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f77532d9558a6c95dc7e57e15cecfe93/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4a937f837d2fec267df5d837acc66dbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5e8c4496ce4280af4764eb724b70b66f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fe08f777096f97b39f43bf0f0f43efe9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/66e511b27b0f676e541d712fe987b306/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3b8b56721ac64237d578916d631ce023/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/cc06456fea9bc24a3af4b360b1a309f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2624608dd9f9e48a9cb68bd571c2b1eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cf42b278a54bc00a012b047dee745ede/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/55fc337718bb51ffb276f04b18d0198a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/614cdc752ec82b9304667a47f9afc8b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d0a75f67e2d02a8cfde83d32057627ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/43f78433291eb82672f8d02e09bf8913/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/20579c9edba592e240fd93340d822ce3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0c9fd3ed618bb95038ac03edef84fbd5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/56c3d151de3c7b6ca58bacf98a4aa7a0/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97f07e71fa56c041750d8d2ba94c3cf9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e18f31461e272988308d47a5cb3e736a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c26202584e95a12d0c09c70f25818bb8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f1ac6ef3713f07570a51ee9fb53e5c76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b233d0252ce146ed2f35820ac680c79f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/32267e547ac6231108fc660478f97c47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/571571b3ded1371496a13a02aace2fbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4ad162568a7544e28db9aeaf8153e489/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b46d3bb691c3048b631b440cddba2438/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b1d4bb64f6fa1e8dfbf96cae7f564afb/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:2:1-36:12
 	package
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:3:11-44
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:3:11-44
 	android:versionName
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:5:11-36
-		INJECTED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml
-		INJECTED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml
-	android:versionCode
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:4:11-34
-		INJECTED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml
-		INJECTED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml
 uses-sdk
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:7:5-43
-MERGED from [com.android.support:appcompat-v7:23.4.0] /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.1.3/AndroidManifest.xml:5:5-7:41
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:23:9-75
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:7:5-43
+INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:7:5-43
+INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/1b64f4f1938f353050d217d3799a32d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/1b64f4f1938f353050d217d3799a32d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f77532d9558a6c95dc7e57e15cecfe93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f77532d9558a6c95dc7e57e15cecfe93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4a937f837d2fec267df5d837acc66dbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/4a937f837d2fec267df5d837acc66dbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5e8c4496ce4280af4764eb724b70b66f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5e8c4496ce4280af4764eb724b70b66f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fe08f777096f97b39f43bf0f0f43efe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fe08f777096f97b39f43bf0f0f43efe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/66e511b27b0f676e541d712fe987b306/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/66e511b27b0f676e541d712fe987b306/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3b8b56721ac64237d578916d631ce023/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/3b8b56721ac64237d578916d631ce023/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/cc06456fea9bc24a3af4b360b1a309f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/cc06456fea9bc24a3af4b360b1a309f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2624608dd9f9e48a9cb68bd571c2b1eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2624608dd9f9e48a9cb68bd571c2b1eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cf42b278a54bc00a012b047dee745ede/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/cf42b278a54bc00a012b047dee745ede/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/55fc337718bb51ffb276f04b18d0198a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/55fc337718bb51ffb276f04b18d0198a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/614cdc752ec82b9304667a47f9afc8b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/614cdc752ec82b9304667a47f9afc8b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d0a75f67e2d02a8cfde83d32057627ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d0a75f67e2d02a8cfde83d32057627ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/43f78433291eb82672f8d02e09bf8913/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/43f78433291eb82672f8d02e09bf8913/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/20579c9edba592e240fd93340d822ce3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/20579c9edba592e240fd93340d822ce3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0c9fd3ed618bb95038ac03edef84fbd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0c9fd3ed618bb95038ac03edef84fbd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/56c3d151de3c7b6ca58bacf98a4aa7a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/56c3d151de3c7b6ca58bacf98a4aa7a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97f07e71fa56c041750d8d2ba94c3cf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/97f07e71fa56c041750d8d2ba94c3cf9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e18f31461e272988308d47a5cb3e736a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/e18f31461e272988308d47a5cb3e736a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c26202584e95a12d0c09c70f25818bb8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/c26202584e95a12d0c09c70f25818bb8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f1ac6ef3713f07570a51ee9fb53e5c76/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f1ac6ef3713f07570a51ee9fb53e5c76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b233d0252ce146ed2f35820ac680c79f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/b233d0252ce146ed2f35820ac680c79f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/32267e547ac6231108fc660478f97c47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/32267e547ac6231108fc660478f97c47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/571571b3ded1371496a13a02aace2fbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/571571b3ded1371496a13a02aace2fbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4ad162568a7544e28db9aeaf8153e489/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/4ad162568a7544e28db9aeaf8153e489/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b46d3bb691c3048b631b440cddba2438/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/b46d3bb691c3048b631b440cddba2438/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b1d4bb64f6fa1e8dfbf96cae7f564afb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/b1d4bb64f6fa1e8dfbf96cae7f564afb/AndroidManifest.xml:20:5-44
+INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:7:5-43
+INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:7:5-43
 	android:targetSdkVersion
-		INJECTED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml
-		INJECTED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:7:5-43
+		INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:7:15-41
-		INJECTED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml
-		INJECTED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:7:15-41
+		INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:9:5-80
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:9:5-80
 	android:name
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:9:22-78
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:9:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:10:5-74
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:10:5-74
 	android:name
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:10:22-72
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:10:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:11:5-79
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:11:5-79
 	android:name
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:11:22-77
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:11:22-77
 application
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:13:5-33:19
-MERGED from [com.android.support:appcompat-v7:23.4.0] /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.1.3/AndroidManifest.xml:9:5-20
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:13:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/1b64f4f1938f353050d217d3799a32d0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/constraint-layout-2.0.4.aar/1b64f4f1938f353050d217d3799a32d0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0c9fd3ed618bb95038ac03edef84fbd5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0c9fd3ed618bb95038ac03edef84fbd5/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/56c3d151de3c7b6ca58bacf98a4aa7a0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/56c3d151de3c7b6ca58bacf98a4aa7a0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0c9fd3ed618bb95038ac03edef84fbd5/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:14:9-45
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:14:9-45
 activity#com.xiaoqlu.motionevent.FrameLayoutActivity
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:16:9-22:20
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:16:9-18:20
 	android:name
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:16:19-54
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:17:13-21:29
-action#android.intent.action.MAIN
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:18:17-68
-	android:name
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:18:25-66
-category#android.intent.category.LAUNCHER
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:20:17-76
-	android:name
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:20:27-74
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:16:19-54
 activity#com.xiaoqlu.motionevent.EventActivity
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:23:9-27:20
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:19:9-27:20
 	android:label
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:25:13-45
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:21:13-45
 	android:name
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:24:13-42
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:20:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:25:27-74
 activity#com.xiaoqlu.motionevent.SlidingConflictActivity
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:28:9-60
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:28:9-60
 	android:name
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:28:19-58
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:28:19-58
 activity#com.xiaoqlu.motionevent.TouchActivity
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:29:9-30:20
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:29:9-31:20
 	android:name
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:29:19-48
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:29:19-48
 activity#com.xiaoqlu.motionevent.MultiTouchActivity
-ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:31:9-32:20
+ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:32:9-33:20
 	android:name
-		ADDED from /workspace/git_resources_20170410/AndroidDemo/MotionEvent/app/src/main/AndroidManifest.xml:31:19-53
+		ADDED from /Users/zhongyao/workspace/demo/MotionEvent/app/src/main/AndroidManifest.xml:32:19-53
