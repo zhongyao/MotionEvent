@@ -18,22 +18,29 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:testOnly="true" >
-        <activity android:name="com.xiaoqlu.motionevent.FrameLayoutActivity" >
-        </activity>
-        <activity
-            android:name="com.xiaoqlu.motionevent.EventActivity"
-            android:label="@string/app_name" >
+        <activity android:name="com.xiaoqlu.motionevent.CustomLongClickActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.xiaoqlu.motionevent.FrameLayoutActivity" />
+        <activity
+            android:name="com.xiaoqlu.motionevent.EventActivity"
+            android:label="@string/app_name" >
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+        </activity>
         <activity android:name="com.xiaoqlu.motionevent.SlidingConflictActivity" />
-        <activity android:name="com.xiaoqlu.motionevent.TouchActivity" >
-        </activity>
-        <activity android:name="com.xiaoqlu.motionevent.MultiTouchActivity" >
-        </activity>
+        <activity android:name="com.xiaoqlu.motionevent.TouchActivity" />
+        <activity android:name="com.xiaoqlu.motionevent.MultiTouchActivity" />
     </application>
 
 </manifest>

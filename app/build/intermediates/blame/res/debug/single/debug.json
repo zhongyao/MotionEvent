@@ -296,6 +296,10 @@
         "source": "/Users/zhongyao/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/f77532d9558a6c95dc7e57e15cecfe93/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "/Users/zhongyao/workspace/demo/MotionEvent/app/build/intermediates/res/merged/debug/layout_activity_custom_long_click.xml.flat",
+        "source": "/Users/zhongyao/workspace/demo/MotionEvent/app/src/main/res/layout/activity_custom_long_click.xml"
+    },
+    {
         "merged": "/Users/zhongyao/workspace/demo/MotionEvent/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
         "source": "/Users/zhongyao/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0c9fd3ed618bb95038ac03edef84fbd5/res/layout/notification_template_part_time.xml"
     },
