@@ -30,7 +30,7 @@ import com.xiaoqlu.motionevent.util.Logger;
  * https://www.jianshu.com/p/38015afcdb58
  * http://wuxiaolong.me/2015/12/19/MotionEvent/
  *
- * @author zhongyao
+ * @author  zhongyao
  */
 public class EventActivity extends Activity {
 
